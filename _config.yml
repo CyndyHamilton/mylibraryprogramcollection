@@ -20,12 +20,12 @@ source-code: https://CyndyHamilton.github.io/mylibraryprogramcollection
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: My ibrary Programming Collection of Cyndy Hamilton
+title: The Library Programming Collection of Cyndy Hamilton, MLIS student
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A digital collection of library programming.
+tagline: A digital collection of library programming information.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A small digital collection I created that is exhibitted on GitHub Pages designed for teaching digital library skills for my course."
+description: "A small digital collection which I created, exhibited on GitHub Pages designed to test digital library skills I have acquired in my recent course."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: chamilton
 

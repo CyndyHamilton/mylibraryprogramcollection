@@ -14,6 +14,12 @@ credits: true
 
 ## About the Collection
 
+The Library Programming Collection of Cyndy Hamilton was established in 2022 and is dedicated to preserving the personal library program associated work Ms. Hamilton has designed or utilized as an MLIS student at the University of MD iSchool. As the collection grows it is intended to be a resource for herself and fellow cohorts, a combination of volunteers and professional library staff. These records were deposited by Cyndy Hamilton.
+
+The scope of the collection’s records includes events files, subject finding aids, and marketing files. The strength of the collection is found within the guides series while the remainder are support documents that may be used again or to provide . This series gives a historical overview of the involvement, development, and impact Ms. Hamilton has had in her pursuit to become a programming librarian. 
+
+The series ranges from 2020 to the present and includes work associated with Ms. Hamilton and cohorts, local business owners, and library management. Arrangement is first by date and then by event title. Users will find twenty or more items including flyers, social media flyers, program guides and accessories, event adverts, proposals, and policy. Only .pdf files and .jpg files are included at this time. The collection is easily search by the main subject of the object.
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata

@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cyndyhamilton.github.io/images/THEME_HOMEPAGE.jpg" %}
+{% include feature/jumbotron.html objectid="https://cyndyhamilton.github.io/mylibraryprogramcollection/assets/img/THEME_HOMEPAGE.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
